@@ -1,0 +1,5 @@
+﻿  OpenGLCube.cpp
+c:\users\tranh\source\repos\opengl_cube\opengl_cube\openglcube.cpp(17): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\tranh\source\repos\opengl_cube\opengl_cube\openglcube.cpp(17): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  OpenGL_Cube.vcxproj -> C:\Users\tranh\source\repos\OpenGL_Cube\Debug\OpenGL_Cube.exe
+  OpenGL_Cube.vcxproj -> C:\Users\tranh\source\repos\OpenGL_Cube\Debug\OpenGL_Cube.pdb (Partial PDB)

@@ -1,0 +1,8 @@
+﻿  OpenGLequitriangle.cpp
+  BadprogTriangle.cpp
+c:\users\tranh\source\repos\opengl_equi_triangle\opengl_equi_triangle\badprogtriangle.cpp(41): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tranh\source\repos\opengl_equi_triangle\opengl_equi_triangle\badprogtriangle.cpp(42): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tranh\source\repos\opengl_equi_triangle\opengl_equi_triangle\badprogtriangle.cpp(43): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  OpenGL_equi_triangle.vcxproj -> C:\Users\tranh\source\repos\OpenGL_equi_triangle\Debug\OpenGL_equi_triangle.exe
+  OpenGL_equi_triangle.vcxproj -> C:\Users\tranh\source\repos\OpenGL_equi_triangle\Debug\OpenGL_equi_triangle.pdb (Partial PDB)
